@@ -1,9 +1,9 @@
 {
     "name": "Web-Qr",
-    "description": "I am star-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/+2347045035241",
-    "logo": "https://i.ibb.co/s6bjyzw/p9179182-b-h10-ab.jpg",
-    "repository": "https://github.com/Xcelsama/Web-Qr",
-    "keywords": ["whatsappbot", "starMd", "star Md bot", "Star-Md", "starMdWhatsaooBot", "StarWaBot","StarMD","Star Md Whatsapp Bot","multi device"],
+    "description": "I Am MAKINO-MD,Your WhatsApp chat Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/+2349031616504",
+    "logo": "https://telegra.ph/file/38e42afe7aafae2c58439.jpg",
+    "repository": "https://github.com/anonphoenix007/Web-Qr",
+    "keywords": ["whatsappbot", "makinoMd", "makino Md bot", "Makino-Md", "MakinoMdWhatsaooBot", "MakinoWaBot","MakinoMD","Makino Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇\n║ *『 WOW YOU CHOSE STAR-MD 』*\n║ _You completed first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *Channel:* _https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m_\n║ *Owner:* _https://wa.me/2347045035241_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
+        "value": "╔════◇\n║ *『 YOU CHOSE MAKINO-MD,Arigato 』*\n║ _You completed first step in deploying your Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• MAKINO-MD •••』\n║ *Channel:* _https://whatsapp.com/channel/0029VaaSaXD23n3ZEognud1V_\n║ *Owner:* _https://wa.me/2349031616504_\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise that can access chats_\n╚════════════════════════╝",
         "required": false 
       }
     }   
