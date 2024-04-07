@@ -14,15 +14,15 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU CHOSE STAR-MD 』*
-║ _You completed first step to making Bot._
+║ *『 Arigato Senpai ,you CHOSE MAKINO-MD 』*
+║ _You completed first deployment step._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Channel:* _https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m_
-║ *Owner:* _https://wa.me/2347045035241_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
+║       『••• MAKINO-MD •••』
+║ *Channel:* _https://whatsapp.com/channel/0029VaaSaXD23n3ZEognud1V_
+║ *Owner:* _https://wa.me/2349031616504_
+║ *Note :*_Do not provide your SESSION_ID to_
+║ _anyone otherwise that can access your data_
 ╚════════════════════════╝
 `
 
