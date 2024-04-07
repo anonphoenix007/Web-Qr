@@ -7,8 +7,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js"
     },
-    "keywords": ["baileysQr","MdLogin", "Star-md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
-    "author": "Xcelsama",
+    "keywords": ["baileysQr","MdLogin", "Makino-Md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
+    "author": "Frederick(Taira-Makino)",
     "license": "MIT",
     "dependencies": {
       "@hapi/boom": "^10.0.1",
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.dev/Xcelsama/Web-Qr.git"
+        "url": "git+https://github.dev/anonphoenix007/Web-Qr.git"
     }
   }
  
