@@ -20,7 +20,8 @@ const MESSAGE = process.env.MESSAGE ||  `
 ╔═════◇
 ║       『••• MAKINO-MD •••』
 ║ *Channel:* _https://whatsapp.com/channel/0029VaaSaXD23n3ZEognud1V_
-║ *Owner:* _https://wa.me/2349031616504_
+║ *Support GC:* _https://chat.whatsapp.com/BRDE2Yqsj9iAkTxhnuI1AL_
+║ *Owner:* _https://wa.me/27640498397_
 ║ *Note :*_Do not provide your SESSION_ID to_
 ║ _anyone otherwise that can access your data_
 ╚════════════════════════╝
