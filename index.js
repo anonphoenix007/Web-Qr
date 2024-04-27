@@ -71,7 +71,10 @@ if (fs.existsSync('./auth_info_baileys')) {
 //===========================================================================================
 
           let CREDS = fs.readFileSync(__dirname + '/auth_info_baileys/creds.json')
-          var Scan_Id = Buffer.from(CREDS).toString('base64')
+          const xeonses = await  Smd.sendMessage(user, { document: CREDS, mimetype: `application/json`, fileName: `creds.json` });
+          let session_id = await smd.sendMessage(user, xeonses);      //SENDING 'base64' SESSION ID TO USER NUMBER
+          await Smd.sendMessage(user, session_id);
+          /*var Scan_Id = Buffer.from(CREDS).toString('base64')
          // res.json({status:true,Scan_Id })
           console.log(`
 ====================  SESSION ID  ==========================                   
@@ -80,7 +83,7 @@ SESSION-ID ==> ${Scan_Id}
 `)
 
 
-          let msgsss = await Smd.sendMessage(user, { text:  Scan_Id });
+          let msgsss = await Smd.sendMessage(user, { text:  Scan_Id });*/
           await Smd.sendMessage(user, { text: MESSAGE } , { quoted : msgsss });
           await delay(1000);
           try{ await fs.emptyDirSync(__dirname+'/auth_info_baileys'); }catch(e){}
